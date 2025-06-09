@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
 
+Welcome to my professional portfolio! Currently studying a master's degree in Data Science. Here you'll find my personal projects and related information. Some of these projects are continuations of work I started during college, but others are passion projects based on personal interests. I hope you like them! :blush:
 <!--
 **jerry201497/jerry201497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
